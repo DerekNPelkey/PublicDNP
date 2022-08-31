@@ -1,5 +1,5 @@
 # Derek Pelkey
-#Gravity Calc
+# Gravity Calc
 # 8/31/22
 
 #calculate time of fall from height above surface
